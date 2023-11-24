@@ -13,4 +13,4 @@ Hi, this site can answer questions based on the link to the YouTube video provid
 ## Technology used:
 1. LangChain: To integrate OpenAI models and Weaviate vector database.
 2. AssemblyAI: To generate transcript for videos that do not come with captions.
-3. Weaviate: To store vector data.
+3. FAISS: To store vector data.
